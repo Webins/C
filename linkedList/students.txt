@@ -1,0 +1,16 @@
+*************
+Estudiante 1
+Nombre: kleiver
+Edad: 25
+*************
+Estudiante 2
+Nombre: jose
+Edad: 23
+*************
+Estudiante 3
+Nombre: pedro
+Edad: 22
+*************
+Estudiante 4
+Nombre: alonzo
+Edad: 24
